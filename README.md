@@ -1,4 +1,4 @@
-# Sails.js & Angular 2 with server-side rendering
+# PROJECT NO LONGER MAINTAINED - Sails.js & Angular 2 with server-side rendering
 ## Installation
 ### Debian
 
